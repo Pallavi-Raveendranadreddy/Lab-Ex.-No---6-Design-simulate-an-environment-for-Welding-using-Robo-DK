@@ -89,11 +89,29 @@ risk of interfering with the robot.
 1. Put back the default normal approach of 100 mm.
 2. Add a movement, for example, along Z.
 3. Set it to 50 mm.
+
 4. Press Update and Simulate once you are finished.
+
 5. Now the robot retracts normal to the welding path and then straight up
-6. ![image](https://user-images.githubusercontent.com/36288975/173730741-29331e12-e805-44da-bc71-798894720348.png)
 
 
-### Results of simulation 
+6.
+ ![image](https://user-images.githubusercontent.com/36288975/173730741-29331e12-e805-44da-bc71-798894720348.png)
+
+
+
+
+
+### Results of simulation :
+
+
+![output](./spot1.1.PNG)
+
+![output](./spot1.2.PNG)
+
+![output](./spot1.3.PNG)
+
+## Result:
+   An environment for welding operation using robodk is Designed & simulated.
 
 
